@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/practice/algos/sorting/01 - Selection Sort" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/practice/algos/sorting/02 - Bubble Sort" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rough" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/first-idea-program" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
