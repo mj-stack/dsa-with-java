@@ -17,8 +17,6 @@ public class StringExample {
 
     static String greet() {
 
-        String greeting = "How are you";
-
-        return greeting;
+        return "How are you";
     }
 }
