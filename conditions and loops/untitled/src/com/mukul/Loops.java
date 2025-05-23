@@ -41,10 +41,25 @@ public class Loops {
                 increment/ decrement
             }
         */
-        int num = 1;
-        while (num <= 5) {
-            System.out.println(num);
-            num++;
-        }
+//        int num = 1;
+//        while (num <= 5) {
+//            System.out.println(num);
+//            num++;
+//        }
+
+        // do while loop
+        /*
+            Syntax
+            do {
+                body
+                increment / decrement
+            } while (condition)
+        */
+
+        int n = 1;
+        do {
+            System.out.println(n);
+            n++;
+        } while (n <= 10);
     }
 }
