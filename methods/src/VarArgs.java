@@ -7,6 +7,16 @@ public class VarArgs {
         fun(1, 2, 3, 4, 5);
         fruits("Mukul", "Anmol", "Ram", "Shyam", "Mohan");
         multiple(21, 22, "Mukul", "Anmol");
+        demo(1, 2, 9, 8);
+        demo("Anmol", "Mukul");
+    }
+
+    static void demo(int... v) {
+        System.out.println(Arrays.toString(v));
+    }
+
+    static void demo(String... v) {
+        System.out.println(Arrays.toString(v));
     }
 
     static void fun(int... v) {
