@@ -16,10 +16,15 @@ public class MultiDimensionalArray {
                 {6, 7, 8, 9},
         };
 
+//        for (int[] ints : arr) {
+//            for (int anInt : ints) {
+//                System.out.print(anInt + " ");
+//            }
+//            System.out.println();
+//        }
+
         for (int[] ints : arr) {
-            for (int anInt : ints) {
-                System.out.print(anInt + " ");
-            }
+            System.out.println(Arrays.toString(ints));
         }
     }
 }
