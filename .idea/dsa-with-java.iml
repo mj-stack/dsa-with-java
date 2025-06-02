@@ -13,6 +13,7 @@
       <sourceFolder url="file://$MODULE_DIR$/methods" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/binary-search" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/linear-search" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sorting" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
