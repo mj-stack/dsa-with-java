@@ -16,6 +16,7 @@
       <sourceFolder url="file://$MODULE_DIR$/sorting" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/strings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/patterns" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/recursion" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
