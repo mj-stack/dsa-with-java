@@ -13,7 +13,6 @@ public class RemoveDuplicates {
                 count++;
             }
         }
-
         return count;
     }
 }
