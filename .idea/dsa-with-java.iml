@@ -6,7 +6,6 @@
       <sourceFolder url="file://$MODULE_DIR$/practice/algos/sorting" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/practice/algos/sorting/01 - Selection Sort" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/practice/algos/sorting/02 - Bubble Sort" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/rough" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/first-idea-program" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/conditions and loops/switch" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/conditions and loops/untitled/src" isTestSource="false" />
@@ -17,6 +16,7 @@
       <sourceFolder url="file://$MODULE_DIR$/strings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/patterns" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/recursion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcodeQuestions" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
