@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class SquareRoot {
     public static void main(String[] args) {
-        System.out.println(squareRoot(81));
+        System.out.println(squareRoot(40));
     }
 
     public static int squareRoot(int n) {
