@@ -18,6 +18,7 @@
       <sourceFolder url="file://$MODULE_DIR$/recursion" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcodeQuestions" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/bitwise-operators" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/recursion2" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
